@@ -1,5 +1,8 @@
-# orbit-loader-css
+Orbit loader animation with CSS
 
-# demo
+#### Live demo
+https://berkipekoglu.github.io/orbit-loader-css/
 
-<img src="demo.png" />
+#### Demo
+
+<img src="demo.png" width="300px" />
